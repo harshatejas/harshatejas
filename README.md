@@ -25,7 +25,7 @@ Here are some of the tools, frameworks, and libraries I work with:
 
 ## 📬 Let's Connect!
 
-If you'd like to collaborate, discuss deep learning, or chat about the latest trends in computer vision, feel free to connect with me on LinkedIn at [[LinkedIn Profile Link].](https://www.linkedin.com/in/harsha-tejas-5056071a4/)
+If you'd like to collaborate, discuss deep learning, or chat about the latest trends in computer vision, feel free to connect with me on LinkedIn at [LinkedIn Profile Link].(https://www.linkedin.com/in/harsha-tejas-5056071a4/)
 
 
 <!--
