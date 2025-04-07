@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Harsha Tejas!
 
 Welcome to my GitHub profile! I'm a passionate **Computer Vision Developer** with a strong focus on **Deep Learning** and **Core Computer Vision**. I specialize in building cutting-edge solutions that leverage machine learning, deep learning, and advanced vision techniques to solve complex real-world problems.
 
